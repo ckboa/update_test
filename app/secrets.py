@@ -1,0 +1,2 @@
+WIFI_SSID='cknet'
+WIFI_PASSWORD='Teelek88'
